@@ -1,0 +1,12 @@
+[project]
+name = "trader-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alpaca-py>=0.42.2",
+    "anthropic>=0.69.0",
+    "gradio>=5.49.0",
+    "mcp>=1.16.0",
+]
